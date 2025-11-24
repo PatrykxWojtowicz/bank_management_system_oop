@@ -10,7 +10,8 @@ class Transaction;
 class Account{
 
     public:
-        Account(int id, long long InitialBalance, const std::string& waluta); 
+        Account(int id, long long initialBalance, 
+            const std::string& waluta); 
             
 
         int getId() const;
