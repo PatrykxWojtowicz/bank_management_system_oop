@@ -20,6 +20,8 @@ class Account{
 
         void depozyt(long long amount);
         bool wyplata(long long amount);
+        bool transferTo(Account& other, long long amount);
+
 
 
 

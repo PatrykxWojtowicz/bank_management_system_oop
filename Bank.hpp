@@ -23,7 +23,7 @@ class Bank{
         std::shared_ptr<Customer> createCustomer(const std::string& imie,
         const std::string& nazwisko, int id);
 
-        std::shared_ptr<Account> creatrAccount(int id, long long initialBalance,
+        std::shared_ptr<Account> createAccount(int id, long long initialBalance,
         const std::string& waluta, std::shared_ptr<Customer> owner);
 
         //Wyszukiwanie
