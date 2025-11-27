@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Programowanie/bank_management_system_oop/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/BANK_MANAGEMENT.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\BANK_MANAGEMENT.dir\\src\\Account.cpp.obj -c C:\\Programowanie\\bank_management_system_oop\\src\\Account.cpp",
+  "file": "C:/Programowanie/bank_management_system_oop/src/Account.cpp",
+  "output": "CMakeFiles/BANK_MANAGEMENT.dir/src/Account.cpp.obj"
+},
+{
+  "directory": "C:/Programowanie/bank_management_system_oop/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/BANK_MANAGEMENT.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\BANK_MANAGEMENT.dir\\src\\Bank.cpp.obj -c C:\\Programowanie\\bank_management_system_oop\\src\\Bank.cpp",
+  "file": "C:/Programowanie/bank_management_system_oop/src/Bank.cpp",
+  "output": "CMakeFiles/BANK_MANAGEMENT.dir/src/Bank.cpp.obj"
+},
+{
+  "directory": "C:/Programowanie/bank_management_system_oop/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/BANK_MANAGEMENT.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\BANK_MANAGEMENT.dir\\src\\Customer.cpp.obj -c C:\\Programowanie\\bank_management_system_oop\\src\\Customer.cpp",
+  "file": "C:/Programowanie/bank_management_system_oop/src/Customer.cpp",
+  "output": "CMakeFiles/BANK_MANAGEMENT.dir/src/Customer.cpp.obj"
+},
+{
+  "directory": "C:/Programowanie/bank_management_system_oop/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/BANK_MANAGEMENT.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\BANK_MANAGEMENT.dir\\src\\Transaction.cpp.obj -c C:\\Programowanie\\bank_management_system_oop\\src\\Transaction.cpp",
+  "file": "C:/Programowanie/bank_management_system_oop/src/Transaction.cpp",
+  "output": "CMakeFiles/BANK_MANAGEMENT.dir/src/Transaction.cpp.obj"
+},
+{
+  "directory": "C:/Programowanie/bank_management_system_oop/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/BANK_MANAGEMENT.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\BANK_MANAGEMENT.dir\\src\\main.cpp.obj -c C:\\Programowanie\\bank_management_system_oop\\src\\main.cpp",
+  "file": "C:/Programowanie/bank_management_system_oop/src/main.cpp",
+  "output": "CMakeFiles/BANK_MANAGEMENT.dir/src/main.cpp.obj"
+}
+]

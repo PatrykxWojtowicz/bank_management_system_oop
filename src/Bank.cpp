@@ -32,8 +32,9 @@ std::shared_ptr<Account> Bank::findAccount(int id)
         {
             return acc;
         }
-        return nullptr;
+        
     }
+    return nullptr;
 }
 //Pętla for do sprawdzenia czy klient istnieje poprzez sprawdzenie ID
 std::shared_ptr<Customer> Bank::findCustomer(int id)
@@ -44,8 +45,9 @@ std::shared_ptr<Customer> Bank::findCustomer(int id)
         {
             return cus;
         }
-        return nullptr;
+        
     }
+    return nullptr;
 }
 
 //Wypisujemy wszystkie konta i klientow za pomoca metody

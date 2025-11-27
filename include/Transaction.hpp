@@ -9,6 +9,6 @@ class Transaction{
         int otherAccId; //do transferow, jesli -1 to nie dotyczy
 
         Transaction(const std::string& type, long long amount,
-        std::string& data, int otherAccId = -1);
+        const std::string& data, int otherAccId = -1);
 
 };
