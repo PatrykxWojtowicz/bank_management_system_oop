@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.10"
@@ -19,7 +19,7 @@
 					]
 				}
 			],
-			"name" : "",
+			"name" : "Debug",
 			"projects" : 
 			[
 				{
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "BANK_MANAGEMENT::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-BANK_MANAGEMENT-ef3b5dfb34c8e8c00400.json",
+					"jsonFile" : "target-BANK_MANAGEMENT-Debug-99499859686e37645edc.json",
 					"name" : "BANK_MANAGEMENT",
 					"projectIndex" : 0
 				}
